@@ -3,25 +3,25 @@
   "message": "Data fetched successfully!",
   "data": [
     {
-      "name": "AIS ไทย",
+      "name": "AIS01 ไทย",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }, {
-      "name": "AIS ไทย",
+      "name": "AIS02 ไทย",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }, {
-      "name": "AIS ไทย",
+      "name": "AIS03 ไทย",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }, {
-      "name": "AIS ไทย",
+      "name": "AIS04 ไทย",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }, {
-      "name": "AIS ไทย",
+      "name": "AIS05 ไทย",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }, {
-      "name": "AIS ไทย",
+      "name": "AIS06 ไทย",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }, {
-      "name": "AIS ไทย",
+      "name": "AIS07 ไทย",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }
   ]
