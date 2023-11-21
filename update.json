@@ -1,27 +1,27 @@
 {
-  "version": 1.4,
+  "version": 1.5,
   "message": "Data fetched successfully!",
   "data": [
     {
-      "name": "AIS01 ไทย",
+      "name": "Thailand AIS-01",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }, {
-      "name": "AIS02 ไทย",
+      "name": "Thailand AIS-02",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }, {
-      "name": "AIS03 ไทย",
+      "name": "Thailand AIS-03",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }, {
-      "name": "AIS04 ไทย",
+      "name": "Thailand AIS-04",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }, {
-      "name": "AIS05 ไทย",
+      "name": "Thailand AIS-05",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }, {
-      "name": "AIS06 ไทย",
+      "name": "Thailand AIS-06",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }, {
-      "name": "AIS07 ไทย",
+      "name": "Thailand AIS-07",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }
   ]
