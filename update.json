@@ -4,30 +4,39 @@
   "data": [
     {
       "name": "Thailand AIS-01 ชื่อไทยได้",
+      "detail": "รายละเอียด TH 01",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }, {
       "name": "Thailand AIS-02 ชื่อไทยได้",
+      "detail": "รายละเอียด TH 02",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }, {
       "name": "Thailand AIS-03 ชื่อไทยได้",
+      "detail": "รายละเอียด TH 03",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }, {
       "name": "Thailand DTAC-01 ชื่อไทยได้",
+      "detail": "รายละเอียด TH 01",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }, {
       "name": "Thailand DTAC-02 ชื่อไทยได้",
+      "detail": "รายละเอียด TH 02",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }, {
       "name": "Thailand DTAC-03 ชื่อไทยได้",
+      "detail": "รายละเอียด TH 03",
       "content": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtUExBWS1URVNUIiwKICAiYWRkIjogIjQ1LjE1MC4xMjguODkiLAogICJwb3J0IjogODAsCiAgImlkIjogIjExZDVhNmU2LTMxYjEtNDUzZC04ZjFmLTVlMWVlOWI3ZjJkZSIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIKfQ=="
     }, {
       "name": "Thailand TRUE-01 ชื่อไทยได้",
+      "detail": "รายละเอียด TH 01",
       "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiIiLCJob3N0IjoidjJ2LjJpbjF2cG4ubmV0IiwiaWQiOiI1YzJhM2NkYS03YjNiLTQ5ZWYtOWRjZi1jNTM3MTZjMjY2NzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiYW9memEiLCJzY3kiOiJhdXRvIiwic25pIjoidjJ2LjJpbjF2cG4ubmV0IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0="
     }, {
       "name": "Thailand TRUE-02 ชื่อไทยได้",
+      "detail": "รายละเอียด TH 02",
       "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiIiLCJob3N0IjoidjJ2LjJpbjF2cG4ubmV0IiwiaWQiOiI1YzJhM2NkYS03YjNiLTQ5ZWYtOWRjZi1jNTM3MTZjMjY2NzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiYW9memEiLCJzY3kiOiJhdXRvIiwic25pIjoidjJ2LjJpbjF2cG4ubmV0IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0="
     }, {
       "name": "Thailand TRUE-03 ชื่อไทยได้",
+      "detail": "รายละเอียด TH 03",
       "content": "vmess://eyJhZGQiOiJ0b3BwaW5nLnRydWVtb3ZlaC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiIiLCJob3N0IjoidjJ2LjJpbjF2cG4ubmV0IiwiaWQiOiI1YzJhM2NkYS03YjNiLTQ5ZWYtOWRjZi1jNTM3MTZjMjY2NzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiYW9memEiLCJzY3kiOiJhdXRvIiwic25pIjoidjJ2LjJpbjF2cG4ubmV0IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0="
     }
   ]
