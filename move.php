@@ -1,5 +1,5 @@
 {
-  "Boolean": false,
+  "Boolean": true,
   "GooglePlay": "https://play.google.com/store/apps/details?id=com.publicunc.uncvpn",
   "Message": "โปรดอ่านรายละเอียด
 
