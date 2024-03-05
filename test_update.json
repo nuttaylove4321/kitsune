@@ -1,0 +1,35 @@
+{
+  "Version": "1.0",
+  "Servers": [
+    {
+      "Name": "Test01",
+      "Flag": "AA.png",
+      "ServerIPHost": "46.250.239.65",
+      "ServerCloudFrontHost": "46.250.239.65",
+      "ServerHTTPHost": "46.250.239.65",
+      "Category": "PREMIUM",
+      "OpenVPNTCPPort": "8880",
+      "OpenVPNSSLPort": "8080"
+    }
+  ],
+  "Networks": [
+    {
+      "Name": "Dtac",
+      "Payload": "GKtOTf37z1HD5tEmc0+DHJ11MK9pM0URMPpLEAIVtVvfTyErR+Xxvu3kaTdeSvVVT5ilSdm\/MVs5qpy9Sd7ECQiZCsD65QKHMPcJxey9BPnGsxVXbznkgOTW2bzNI+fMVQ6+MzTQBMznV\/IVZUhfnW1PonsPDnq\/gpH8Kc57DZM=",
+      "Info": "test",
+      "TunnelType": 2,
+      "FrontQuery": "",
+      "BackQuery": "",
+      "Priority": 0,
+      "ServerHostDNS": "ws",
+      "ProxySettings": {
+        "Squid": "96oNPidYH33z6lpNZ5DlPQJqS0VWYYaFK0ZuEd6DUbc=",
+        "Port": "8880"
+      }
+    }
+  ],
+  "SSLNetworks": [],
+  "Username": "Test",
+  "Password": "Test",
+  "Notes": "test update"
+}
