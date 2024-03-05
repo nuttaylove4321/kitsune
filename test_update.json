@@ -4,11 +4,11 @@
     {
       "Name": "Test01",
       "Flag": "AA.png",
-      "ServerIPHost": "46.250.239.65",
-      "ServerCloudFrontHost": "46.250.239.65",
-      "ServerHTTPHost": "46.250.239.65",
+      "ServerIPHost": "test.e-san-dns.com",
+      "ServerCloudFrontHost": "test.e-san-dns.com",
+      "ServerHTTPHost": "test.e-san-dns.com",
       "Category": "PREMIUM",
-      "OpenVPNTCPPort": "8880",
+      "OpenVPNTCPPort": "443",
       "OpenVPNSSLPort": "8080"
     }
   ],
