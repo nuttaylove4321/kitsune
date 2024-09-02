@@ -1,6 +1,6 @@
 {
  "FileName": "",
- "Version": "2.0",
+ "Version": "2.1",
  "ReleaseNotes": "test",
  "contactSupport": "test",
  "Servers": [
@@ -61,6 +61,20 @@
    "AutoReplace": false,
    "SquidProxy": "Y+IFUK4TbR3cASNvVic8cEkdc2KRyB6g1CM8jkhOn11ehLc46T98ipVHiQ+Ot1Tx1Y\/1f51z51Y\/fT\/L",
    "SquidPort": "8880",
+   "NetworkFrontQuery": "",
+   "NetworkBackQuery": ""
+  },
+  {
+   "FLAG": "9mobile",
+   "proto_spin": 0,
+   "server_type": "cf",
+   "Name": "DtacTrueID2",
+   "NetworkPayload": "tZrZpp9tVOEXuMi42gZbVToEUmU5lrMApZ9iIU0mLCyQIdC40MS5jQhWWIxPwKewNmwuJgWk4rRm4EkeOJrZPVPmHVJ6kRp9m2y0xXrKFL93cTBoEphUO2P1Ff5yXIVZu\/1ouJ4KHJ582yA8J3MJisCpL6gq+s0IKJ+Z\/Dg\/nKqK0Akle5ppK+HCxmfVtlNtmHfY8dkvf8L9GenH+FNSDlXUmLNB+xgwhgBKsNoFvNhslPIKKysHuGcDwy\/oWoxyUBmLLQZAj7iaGrXWCrWrrxpEgN8TNnAUfyfDgjk2kXNKi5XmREWhkUxYkXHFL6Bv58IcxAGY2kT\/JMZK6BUrPVoKKN9wk37lBigMiR7vhUQKyfZqzv8KAJvm6FH+legjx58eiAuCgpPZ0M1IeCc\/qw53wKq27b27mRZ7Hn5o3CcBkkYAwLAIQoEnBOjuEzWTMC5\/x8eUyil+yBDQYp7LkI3okq60uX4UPtvkvYbBTLCFtu2tVUdEhtt4KocKvEQHwUszKGYhKG+FJ\/o8E1VIgBY3Ry46Eqs9hMTgFyRO07TsxGUVmmrEqE5a9GbF4dlfmNBAyu2g+P1pusaWO8p0atn4pyI2ntRBv7YMlgRj18gu1g6MVe0VGwoGgZPm\/c158roEjhaJQ5SDwzBtyPRJHy8wXk40Z7lKFQvp4mwbUjRpVVy6WUtLaeLJGObv2HmH1YGm8j4xbADosaZGIbEODbAg3InitmJTpk77tI5PMRxnCh9S\/nCAI4ighh8cnoM5kBQ718aG8frbnzmgMcgPWkDol0w1AxLXI3LMoT6xRYHUw\/lJNOUGc1jNVjK4tPXxAzVGAyxYmsZ27Zi\/79EJFUAOBmZGa6dpBHRQUwUblBZqJLvOgEsnxQ==",
+   "Info": "",
+   "UseDefProxy": false,
+   "AutoReplace": false,
+   "SquidProxy": "haTU56DwvNe8X4pJDXEPs5RftQl15bMRk\/SJQJrhMRXAZ1Mqw\/uy01jW+kaPAbe9IuJHALsMOIkZ1Yw00UZagg==",
+   "SquidPort": "2086",
    "NetworkFrontQuery": "",
    "NetworkBackQuery": ""
   }
