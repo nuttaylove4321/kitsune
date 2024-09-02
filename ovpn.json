@@ -1,6 +1,6 @@
 {
  "FileName": "",
- "Version": "2.3",
+ "Version": "2.4",
  "ReleaseNotes": "test",
  "contactSupport": "t.me\/Zenze000",
  "Servers": [
@@ -88,6 +88,20 @@
    "UseDefProxy": false,
    "AutoReplace": false,
    "SquidProxy": "CBKdGpHjoyHDKVCnuiLLifZ\/3\/N67iN5dVqhly0re2kohpLod2oXHTJ3sBlj\/j9mV4G2zLNqqieZjBj0",
+   "SquidPort": "2086",
+   "NetworkFrontQuery": "",
+   "NetworkBackQuery": ""
+  },
+  {
+   "FLAG": "9mobile",
+   "proto_spin": 0,
+   "server_type": "cf",
+   "Name": "2086",
+   "NetworkPayload": "tFJwf\/QTBhdSh+cnnw2AOHYyAi5VnCyePKJ6nl3iQZYhQwnMYOCyG+wm7kis+wjdjPhoJk2r7vwGLn3ozWKd1JdVAA6xymaPVt8z0naDKRT+6JAG5MvXzLc8m11aNAVA6DDniIJY3mzv2mS\/wqUdI6V4x7Ke3Q57qmH95FvWW99kVwljttmKIR3FFtsTnIZnwu\/qQBHFzQt\/PeXznjcCmre66NKJ6QxCWo7r+HsEFaqHLl10lP5IQrV0cUsPKGjreWmRED2FTOHLx6pWwZ8dJw==",
+   "Info": "",
+   "UseDefProxy": false,
+   "AutoReplace": false,
+   "SquidProxy": "Y+IFUK4TbR3cASNvVic8cEkdc2KRyB6g1CM8jkhOn11ehLc46T98ipVHiQ+Ot1Tx1Y\/1f51z51Y\/fT\/L",
    "SquidPort": "2086",
    "NetworkFrontQuery": "",
    "NetworkBackQuery": ""
