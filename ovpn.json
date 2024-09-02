@@ -1,6 +1,6 @@
 {
- "FileName": "shan_vpn",
- "Version": "3.1",
+ "FileName": "",
+ "Version": "3.2",
  "ReleaseNotes": "Shan Devz VPN Project, You can buy any android app with src code...\n\nContact me on telegram @Zenze000",
  "contactSupport": "t.me\/Zenze000",
  "Servers": [
@@ -56,13 +56,14 @@
    "Info": "",
    "Sni": "",
    "Payload": "tFJwf\/QTBhdSh+cnnw2AOHYyAi5VnCyePKJ6nl3iQZYhQwnMYOCyG+wm7kis+wjdjPhoJk2r7vwGLn3ozWKd1JdVAA6xymaPVt8z0naDKRT+6JAG5MvXzLc8m11aNAVA6DDniIJY3mzv2mS\/wqUdI6V4x7Ke3Q57qmH95FvWW99kVwljttmKIR3FFtsTnIZnwu\/qQBHFzQt\/PeXznjcCmre66NKJ6QxCWo7r+HsEFaqHLl10lP5IQrV0cUsPKGjreWmRED2FTOHLx6pWwZ8dJw==",
-   "AutoReplace": false,
-   "UseDefProxy": false,
+   "AutoReplace": "false",
+   "UseDefProxy": "false",
    "SquidProxy": "MeZlVhjxTp3TRN+5308iRylnMm3qqk7J2SpsFbeE+vGebsPts\/SV4QEVuxA7NcwwXCb7cQnETtE=",
    "SquidPort": "2086",
    "NetworkFrontQuery": "",
    "NetworkBackQuery": "",
-   "SelectedProtocal": "HTTP OVPN"
+   "SelectedProtocal": "HTTP Proxy",
+   "Protocal": "OVPN"
   },
   {
    "Name": "DtacSSH",
@@ -76,11 +77,27 @@
    "SquidPort": "8880",
    "NetworkFrontQuery": "",
    "NetworkBackQuery": "",
-   "SelectedProtocal": "HTTP OVPN"
+   "SelectedProtocal": "HTTP Proxy",
+   "Protocal": "SSH"
+  },
+  {
+   "Name": "AisPlay",
+   "Flag": "ais",
+   "Info": "",
+   "Sni": "6NAPqxckXgfIKUHJ5EQeuxZNksyFZ29Ch\/TePquYr\/9p1B7Svei4I8RCpvfPgtXwQddJya9bctw=",
+   "Payload": "",
+   "AutoReplace": "false",
+   "UseDefProxy": "false",
+   "SquidProxy": "",
+   "SquidPort": "",
+   "NetworkFrontQuery": "",
+   "NetworkBackQuery": "",
+   "SelectedProtocal": "HTTP Proxy",
+   "Protocal": "SSH"
   },
   {
    "Name": "SlowDNS",
-   "Flag": "th",
+   "Flag": "dtac",
    "Info": "",
    "Sni": "",
    "Payload": "",
@@ -90,21 +107,8 @@
    "SquidPort": "",
    "NetworkFrontQuery": "",
    "NetworkBackQuery": "",
-   "SelectedProtocal": "SlowDNS"
-  },
-  {
-   "Name": "AisPlay",
-   "Flag": "ais",
-   "Info": "",
-   "Sni": "6NAPqxckXgfIKUHJ5EQeuxZNksyFZ29Ch\/TePquYr\/9p1B7Svei4I8RCpvfPgtXwQddJya9bctw=",
-   "Payload": "",
-   "AutoReplace": false,
-   "UseDefProxy": false,
-   "SquidProxy": "",
-   "SquidPort": "",
-   "NetworkFrontQuery": "",
-   "NetworkBackQuery": "",
-   "SelectedProtocal": "SSL\/SNI"
+   "SelectedProtocal": "SlowDNS",
+   "Protocal": "OVPN"
   }
  ],
  "Ovpn_Cert": "8h79bb3G5F7kr4he6cU8rgGNyLjAH9OM\/gKCH44CbFijzI3ul0HG1Be\/qyNYv07gGN\/S4\/\/49UopzdbYBOGyTGTp+fMmIcfvDVqiD7t+Lb7IipM3kVb+wVGSE9Z0wvVMjSw4psO1CxAiUkQXEUMIRuLE8EY5QHdu+qWKnSiTWIRnKvyDsrjmd48++eT1aXHqNZSkPyBzs\/BnQCtmHxflk9FUVTqn4YvFQWuPI7JgM9PODRgwohPR1TUl0W9YXVzTexAsw8NFJJWtJ0wVT6J5hExHScN1tLW6hj1h5xzyXUSxEFX7hHAL5Mghv9oI3XzBke7iVF+13KPoJOgmMp2NISV+dPYFN1p+bFFWNmPhaMYzQcHf6pSq1X3hgPibsKzSJkqvXU80WiLuHznquKBDJtTZNP80Q8XSiqjjr5qQK6PmEmTxTuZWMCIsDeHRy+k47SLG6mewQAQs1GYaVBc2B\/2z2PqWURI5zEalm0Jn01o8TgsdrxhMkbe4QYSXuiBtv2xMaA1+qMscEg77YRpSs9jlkoqVbHjWmnGz7uLS3Avsykz9bDDn9yQuhmHGxIKVHvl9SJbnaSFhLHd2stYGt+Dp7qEwFf158kfU7VdwK6nIZqoKO9J2fh6cGHvm\/\/AuqSap74YR2Nu3a7ZBKCLWWa0pOz3CyIIeRLg6gtMH9PWxfTRqgGIJgB9j3tyITfO7fpsGftxnq0R+eWZyxuhEc+vpSA8LhbaveZdtcfgmOlUVobSaUJOWP8R1UCOlRh78PMOMpFpGglPiFr7nHF5WHRZvpnP1ZIBJIt2dUwuEswLxn6QRqmQwyhN22\/tqd2uwHg5lqZD+RvQwIk9GzuL3DcVshVzvWLcRnycTqqJ\/3URSPVSWNgpXGX4dBLSNTiQKAYSub1C8JSyGA2xyndYOLl4ITgAWZHTyLVvGlZodr4Hsxdv29ydUiYkvgQnGZmY6ILL1yO6kF9TjEa4h2yqOzuiOyPgnt\/eOguhcwwegQe4HvDPAISNuASe1tmpdzNISTjLoBvXc3rExXqQ198AiY51VGHpK4c\/ZFdIb2K0hkQbJrzNhbJeBnmAJG2hfAlmFBNE29e3R7OPV\/rWOR6JJOnkvAAvWrflSBmk+scCIJnGkVaFu184lpfR1oPzgMnPU1AWYqkmru3dxYK9NP+2Qji3d6hrlU7jYGWDyKj8GZNDzx6e6NbxFteIO9yFPI3x1K43SZfJTnOW4WVDw+nPUndsWu9MFYCjUeTuYKZFp9fFy9TJZtbPfVJy9UDvQgLnn25\/TOccx\/0S2TW+stgOIkkXXkgSo7XzggkLbmOTpcGb6KmemuRq\/folcqj5sq5g0ABNXIBvzypq26XqrzThKED7vVJzfzkbj844jOm83SMdlfCwbc4YkfCAokPxc90JjFsNpPTbtUhlL6Uk3yn3Uemlwwbkp2QeS9Q4lUHk7bsfrGm\/\/CjZvHVswA7YQbu9xsUcynS5jzQvzXPBsM1ORozX1cGr4YcgcGaHtjE\/kdiRCqPS49qP7oYHSye6gVqWBeou66ZgrkGQ0KbCWtYWOHaTI4r6XLwpc8sM40g1mYKSBEmKAFYNN05wnWW7C+t5z5PY2mDK0G2\/GK9OLLpxU0r2jHwcCpmsbq1RFs\/j9jKc2yTqrtAVZaF199DYjr11Dmt2NUylDowEQV1oOZNw9Hzj6ygGN1UmiRQbDdvh0P4iUfyvLWg5c3zYzpp9dqeyPh5akLnpY6yjkgF06a6uv034lkfJ7P86ya9m6AETPn3Byl3bvTJB3IbbsdMzdQNAqD\/E4\/qsPGKItwPfMNO80nE3+h22tbzsHU81r86BfZDFT98IgfSCf9f+WgYvqft5z7xjffmdO2HobH\/LvBsU3O61FD7oQ0a8mcMuWwCfb9bBipf\/mfOevEJDS6Nk4UrRhQKIPXFwOgT1tnei5wyKWQ7sUUrTBNBvpSm28he2UW\/rjPOg++wnVi8mCzRrbm78iag0SWaxoGvIH\/I1cWjWB47gwlkzwksX66AGwh+gOM9Q7rnMXmQLyNWQdxg\/6e0\/hXcx1rT7r\/WkvwQ6RtmwFXfz2O4\/BXLR4cqM64M4dvxbI38FA5E4B3Tb7PnFzE7UVg73iuCU3gXhJ7TM3sJ8dW6MwTT7n20SNIHl5TUtZ0dGiuR\/wFJUbig9+zN\/4MdRPeKncpeE+IOu\/+zAY5g8oODiWkoiXAETO\/dN6gbTRO36MncwbswI3Hx2EQcEjy3C66L7CGCw7Y0fKQTbAJpjJl3QOExy+FkSdDP1SLmJtXtNmVsad5i7hy+GPeDvzbueH8\/ryHslGRyjglbhP22qKHN9WFeqnBnLSsTJSlpsNafnc937KQiCK3AOve\/etRBxD0XNnCIGfKrZ0AzKO5LaQKNhcuUdxSTiGf02kSdJJlmz27ioX6WEg\/pxvBYaRvjCeKAQKY1mviyEyxtve0pc+SrIZVArpMjxf69bUGsAnELn7b+pN+8fkjavUA\/aCoFFezSDTmywGv0Iu4wz01HnFxjuDN4EILRcPJ3PTYHM\/UIQaOlBE5nyRVhB5NaGUhfMwCt4hOz7i\/ZBzYOILcga4CJWEtEtf3DM\/9Xb0X81x6SuyHHFivl5iSvd7HiAokoaDP7+b7jKgSv1ng7DvhrfpJuipTmsici1xZw9guzZSpN3lHOuVMxlS8YQsu\/x67TjMQywIsxMwTmv\/fIQLDoVMtZkT06bjPUEfiG2eV6zVfP2Kxlampr5qCJGevHvGckYJCRn96txu4sxSkrdBoi7cr04HqHzrtNrUicj4WxcsfuUrfkzILkvEMVCANH2mK4N4+lj1FXFX\/E5BphXDypHc1z7gCIDcU72ttWLWWI3PtVzJZ74+hhbwRWhtHR5xyspPMJ+a2kgw5PsGE\/MsY6isRok7Cu2eHQWd3Rw0Sr5dxIhDVSdkwPdJWmhrWS0JcD8YrXNoPzoP3cP1Dw7H1MzDLi+x5DjoZplhI585CF5ebmMsd90QvlLwJc+cZq5khb7FmWEbCgUzGghuq+Riwi3aVBmvuw+mwngE8\/8vn95njfiOVAb4\/Yc9AmY1xmZ3beh2ZgUIkuP61N7VR+S+XEKHALsCUCk+fkxUaFAI\/Vb3cl9UIJx2SAsB+SlhjtaAn3X0j5ICXyYalMMokbojUvAGf4kptGewXyN16\/ep4irzWWSAM+Zlof9et3iAqte0xDJeBC2d9i5hmjsyJ6\/Wf1xXyfMFxCxl34PfE\/Tvx9vQclryAZdE4ew07G0VjulwOKyqevw7zeeRS8p+0Edkvcoriiwv\/jukXXyqZx4jRweVewzOOU08nsbd4hd+n3Gv\/Kg+90iLHV0wvoEZRiXN4oLiO0ea9Kh+7COhgQc784g1PuZrHd6cZ3+S1Dc7XoJQldXmrfPvK+eMuaqZ1tQDuwbd3Jpl\/PDWl1boFQHpMoKBJfcLsP0V8RbPc78jNMDYcdbozKQk\/CcWdOk\/I2We06JMXO34jgGhklmaj8nOPL8ei5DBY4Lbdd5Ynfpb6ft4Y95ZMW18MUUWp4x3kq\/yPCUedHBw6neXNOSdtb1ydJDgkhsQIe4iObtZgNCU1ZN3PzEfrBws+rAk4tCAz5kfdkFTTSObMKwiM0WIeoZc+RYiBwUEvs+WXu+gguuaOpS72giyCprbxuycdPBd75z06lX+aP08TCZUTFovysZ1qAvPx\/sXQJu+oC1dY4K2jnb0a04foX4P72Azv2Oy49mTVFqQU1KsJrQb0BZ1GQCkNq\/NTE3hT2Pso65Cwqo+Vt8M5iGwam+E\/RW9dOWhIuaj8nSeuxia\/pW18vIimDXt0o+ChXDfS6C78D4lrMCLZNETuG33ISV027EeO8a7kU2iRNxojYwmN4b9DfABYwgIXa2RN2Q7Ms8IVYZJpTGoSNqQ4HpoYpKBg3ciKaAo0VJuicn8tTtMMVv3Mj+pHmied3HSqvpmc\/WqkrcWM3HG9itN2vwu65Fqnw=="
