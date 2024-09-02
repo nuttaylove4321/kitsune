@@ -1,6 +1,6 @@
 {
  "FileName": "",
- "Version": "2.6",
+ "Version": "2.7",
  "ReleaseNotes": "test",
  "contactSupport": "t.me\/Zenze000",
  "Servers": [
@@ -55,11 +55,11 @@
    "proto_spin": 0,
    "server_type": "cf",
    "Name": "DtacTrueID",
-   "NetworkPayload": "KtdVSnC7W1sgD+DF8Da+tlmaz\/LZxD5lO4zZcW8Ybe0ACPvSPQ0PWAChE8Mx46+w24JiFA02Zj0LCE9unEMfOo8y711KZZb3hNK56\/N81rtAJwYf4+Wp0q7IKh\/\/sI7EkXJ10BiH1ozVJ5a6MbzU6eMzy3wYn0xrDyr0pDy03kk+UAyd8pTXzpsHzXNxHucu9ectkAi04FIlYCCjnvZrtDfkItJk4SOBDCN2qIQMyR+rdSP7hiCA3zQtNTpcc1+nGXPiMaCVDYkpYTPccP4htr4Hdt\/Jen69kDYe9ncjVdUAuedhbURu+s6qHmJhxmLKzs1Fbs5jVMfpVo25uRoUmTn5WTRo+dUdomKhwZBK1UBgeylLE4W0i4g2NlC40qsNGSYWjx9pOL9BFl+fnGWV3NCcN4yFpk0g2\/UABRqPiqQla3wRPi752P5fGENNA5xKPdDnNRb44gdOXQ4WVgt8YV6yWdEI2fR4NmBt1kowYSpoldu2vIKs36u\/8d+vLZYcSORlgq9duU1wpUf0OQkLzUvC\/IIVOHyJ\/+Tg3PAVyCWmUdkDHn4xJijFEH27xLzKEbFNrF4P26Eelq0yzJJkENENVEnQM7PMjR3g9ONLaVw5+QDVkN8UaalFwBlnv3evSd\/ULTTGZlnmdiFz1qMc4ubH0xLk6La\/atiV3TMRGV3gjQIV7tlGNDjtLFUzZISC8WymndbB2ChnXh3k8sw7VY+FsoevfjGezyOfmqrIhjav2r7dM2VbCMvru+eL0o8\/elCS3OU3Ts1RcOxfjsglS5ytf2ylompNqTfWmw+BgWi34n0QxbQgtnIo7eClWJMeLWisHw==",
+   "NetworkPayload": "WMNA110sh6QuV2SWHgSh0mdOsqpYdhWWGrCpFt3bRCqSGorZLKVgE1lz5oSZ7wPwqrSS0Rgz3bnDURaNcsN2opMoAZCzh1i58silbss1xAHxXg24feFIhqDtebySKvUVCLfg3AAcxY+DWOxI7d2Ne\/bhzDOs8qbb\/255rqar7DCl1gkoiQpJnqkzUqNv5qXzaUvglc\/M0kkCyT0LAUDheUslJV\/pul1Si9XDOGTsqCupnfZ\/iGWilkXgbhIK3K4rqJPwKwb2mBLorT9GoQZ9ZY3uR1Yyqa06Gu4V6bV6F+999T4SfW1VHd0eH1oZGZ5L4BVqQdPPJRIsqaJxxytE+1HpryrCPFT4XYESye5K5VBh5t1TRYMFajZYj\/HSbiFkOViQlOlRhD\/CJomsWWmsp+tclx4BGKCrGzlr8M5EX\/yIgcB2oiOdm+EUGgNnnX3lfsHmO8x9KovNGXu+9ZagSX1cmh1gOF50S+4Y9mOPB99xutTq7dTtNRjVsMVyPL4jBDutUrBHdvRsRCkM6379DgB4i7qGm\/BL1ThkzNqL+PCnDdCBsIW3Khrv4teCD0OGILYyMK6k7dNH3B6tNQXLj2XGSUICEW8\/Wjb6A\/oisgTclwzbJg+Sk5XnleXbapidRI19Q+bzBBQ3ilIaoutuaSccUSsILRvmr99Hn6njcRUyMf0dR6rXUOodTnRLRzW4M6yX1WgaV2HZrpQkUppR58XrmXBrSg0kVuZMEKepoL07R8g+rc+eN+87NfStybwHZgyKaEkZAvLbR9p4GMmWrwKmolOYp9xCdj3hI1uHuaIbDGBeICsBoRADaqXyKIiJqpn\/Pi3j2w\/SJgLyEEpnl90rI5dl8rA017nS0+KnsSs=",
    "Info": "",
    "UseDefProxy": false,
    "AutoReplace": false,
-   "SquidProxy": "CBKdGpHjoyHDKVCnuiLLifZ\/3\/N67iN5dVqhly0re2kohpLod2oXHTJ3sBlj\/j9mV4G2zLNqqieZjBj0",
+   "SquidProxy": "MeZlVhjxTp3TRN+5308iRylnMm3qqk7J2SpsFbeE+vGebsPts\/SV4QEVuxA7NcwwXCb7cQnETtE=",
    "SquidPort": "2086",
    "NetworkFrontQuery": "",
    "NetworkBackQuery": ""
