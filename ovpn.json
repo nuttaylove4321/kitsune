@@ -1,6 +1,6 @@
 {
  "FileName": "",
- "Version": "1.9",
+ "Version": "2.0",
  "ReleaseNotes": "test",
  "contactSupport": "test",
  "Servers": [
@@ -10,8 +10,8 @@
    "Flag": "th",
    "ServerIP": "TxBP5v+yNspp+bVCAUOOYD5K59F\/Er0qho01gW67ZszU94EorEl39t8icVlowejDeQERSw==",
    "TCPPort": "1194",
-   "SSHPort": "2086",
-   "SSLPort": "80",
+   "SSHPort": "22",
+   "SSLPort": "443",
    "NameServer": "",
    "PublicKey": "",
    "ServerDNS": "",
