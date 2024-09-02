@@ -1,31 +1,9 @@
 {
  "FileName": "",
- "Version": "1.1",
+ "Version": "1.2",
  "ReleaseNotes": "test",
  "contactSupport": "test",
  "Servers": [
-  {
-   "Name": "gggg",
-   "Info": "gggg",
-   "Flag": "th",
-   "ServerIP": "",
-   "TCPPort": "",
-   "SSHPort": "",
-   "SSLPort": "",
-   "NameServer": "",
-   "PublicKey": "",
-   "ServerDNS": "",
-   "ProxyIP": "",
-   "ProxyPort": "",
-   "AutoLogIn": true,
-   "Username": "",
-   "Password": "",
-   "MultiCert": true,
-   "OvpnCertificate": "",
-   "V2Ray": "",
-   "UDPConfig": "",
-   "SelectType": "Default"
-  },
   {
    "Name": "test",
    "Info": "test",
