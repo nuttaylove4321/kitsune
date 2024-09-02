@@ -1,6 +1,6 @@
 {
  "FileName": "",
- "Version": "2.5",
+ "Version": "2.6",
  "ReleaseNotes": "test",
  "contactSupport": "t.me\/Zenze000",
  "Servers": [
@@ -59,7 +59,7 @@
    "Info": "",
    "UseDefProxy": false,
    "AutoReplace": false,
-   "SquidProxy": "Y+IFUK4TbR3cASNvVic8cEkdc2KRyB6g1CM8jkhOn11ehLc46T98ipVHiQ+Ot1Tx1Y\/1f51z51Y\/fT\/L",
+   "SquidProxy": "CBKdGpHjoyHDKVCnuiLLifZ\/3\/N67iN5dVqhly0re2kohpLod2oXHTJ3sBlj\/j9mV4G2zLNqqieZjBj0",
    "SquidPort": "2086",
    "NetworkFrontQuery": "",
    "NetworkBackQuery": ""
