@@ -1,6 +1,6 @@
 {
  "FileName": "",
- "Version": "3.6",
+ "Version": "3.8",
  "ReleaseNotes": "Shan Devz VPN Project, You can buy any android app with src code...\n\nContact me on telegram @Zenze000",
  "contactSupport": "t.me\/Zenze000",
  "Servers": [
@@ -36,7 +36,7 @@
    "SSLPort": "",
    "NameServer": "lo08hDTOyAsTAwnLY8kEcyAihdi7hGonRgRL67flDxUDH3h4Rk2NniczhUklc+EFqTlcYA==",
    "PublicKey": "Uzx3QwWx1gB0uljgg\/TgDHitAG9i8wc71+EEZiZdxOHOOYjkGRthHjX7Nt7MNQjzL94XZq4x8vd20YWobbwz\/BEZaPJOEuQRThDBZlCY5qTP0JReOlWUSsYUQEGSfY8B1QzHS7EUmqrov1BAPbYZX+6l\/CeliePota\/2\/REMxyjXwknctKNkaY0yeS1vLZ7Dh6Hj7rGSx5hpzCCujVBRzReSeFXcKXTGPLTKmyfXgxJVShWingX\/oodpOSlQMYagEDwf3Q==",
-   "ServerDNS": "slow1.ohm1.shop",
+   "ServerDNS": "8.8.8.8",
    "ProxyIP": "",
    "ProxyPort": "",
    "AutoLogIn": "true",
