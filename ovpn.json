@@ -1,6 +1,6 @@
 {
  "FileName": "",
- "Version": "3.8",
+ "Version": "3.9",
  "ReleaseNotes": "Shan Devz VPN Project, You can buy any android app with src code...\n\nContact me on telegram @Zenze000",
  "contactSupport": "t.me\/Zenze000",
  "Servers": [
@@ -30,10 +30,10 @@
    "Name": "SlowDNS",
    "Info": "SlowDNS",
    "Flag": "th",
-   "ServerIP": "",
+   "ServerIP": "lo08hDTOyAsTAwnLY8kEcyAihdi7hGonRgRL67flDxUDH3h4Rk2NniczhUklc+EFqTlcYA==",
    "TCPPort": "",
-   "SSHPort": "",
-   "SSLPort": "",
+   "SSHPort": "143",
+   "SSLPort": "80",
    "NameServer": "lo08hDTOyAsTAwnLY8kEcyAihdi7hGonRgRL67flDxUDH3h4Rk2NniczhUklc+EFqTlcYA==",
    "PublicKey": "Uzx3QwWx1gB0uljgg\/TgDHitAG9i8wc71+EEZiZdxOHOOYjkGRthHjX7Nt7MNQjzL94XZq4x8vd20YWobbwz\/BEZaPJOEuQRThDBZlCY5qTP0JReOlWUSsYUQEGSfY8B1QzHS7EUmqrov1BAPbYZX+6l\/CeliePota\/2\/REMxyjXwknctKNkaY0yeS1vLZ7Dh6Hj7rGSx5hpzCCujVBRzReSeFXcKXTGPLTKmyfXgxJVShWingX\/oodpOSlQMYagEDwf3Q==",
    "ServerDNS": "8.8.8.8",
