@@ -1,6 +1,6 @@
 {
  "FileName": "",
- "Version": "3.5",
+ "Version": "3.6",
  "ReleaseNotes": "Shan Devz VPN Project, You can buy any android app with src code...\n\nContact me on telegram @Zenze000",
  "contactSupport": "t.me\/Zenze000",
  "Servers": [
@@ -114,7 +114,7 @@
    "SquidPort": "",
    "NetworkFrontQuery": "",
    "NetworkBackQuery": "",
-   "SelectedProtocal": "HTTP Proxy",
+   "SelectedProtocal": "SSL SNI",
    "Protocal": "SSH"
   },
   {
