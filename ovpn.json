@@ -23,6 +23,28 @@
    "V2Ray": "",
    "UDPConfig": "",
    "SelectType": "Default"
+  },
+  {
+   "Name": "Thailand01",
+   "Info": "",
+   "Flag": "th",
+   "ServerIP": "dGgxLm9obTEub25saW5l\n",
+   "TCPPort": "1194",
+   "SSHPort": "22",
+   "SSLPort": "80",
+   "NameServer": "",
+   "PublicKey": "",
+   "ServerDNS": "",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "AutoLogIn": true,
+   "Username": "dnBub2ht\n",
+   "Password": "dnBub2ht\n",
+   "MultiCert": true,
+   "OvpnCertificate": "",
+   "V2Ray": "",
+   "UDPConfig": "",
+   "SelectType": "Default"
   }
  ],
  "Networks": [
@@ -40,6 +62,21 @@
    "NetworkBackQuery": "",
    "SelectedProtocal": "HTTP Proxy",
    "Protocal": "OVPN"
+  },
+  {
+   "Name": "DtacTrueID SSH",
+   "Flag": "dtac",
+   "Info": "",
+   "Sni": "",
+   "Payload": "R0VUIC9jZG4tY2dpL3RyYWNlIEhUVFAvMS4xW2NybGZdSG9zdDogcy5kdGFjLmNvLnRoW2NybGZd\nW2NybGZdQ0YtUkFZIC8gSFRUUC8xLjFbY3JsZl1Ib3N0OiBbaG9zdF1bY3JsZl1VcGdyYWRlOiBX\nZWJzb2NrZXRbY3JsZl1Db25uZWN0aW9uOiBLZWVwLUFsaXZlW2NybGZdVXNlci1BZ2VudDogW3Vh\nXVtjcmxmXVVwZ3JhZGU6IHdlYnNvY2tldFtjcmxmXVtjcmxmXQ==\n",
+   "AutoReplace": false,
+   "UseDefProxy": false,
+   "SquidProxy": "ZHRhY2lkLmxpbmd2cG4ubmV0\n",
+   "SquidPort": "2086",
+   "NetworkFrontQuery": "",
+   "NetworkBackQuery": "",
+   "SelectedProtocal": "HTTP Proxy",
+   "Protocal": "SSH"
   }
  ],
  "setOpenVPN": ""
