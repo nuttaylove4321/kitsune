@@ -1,5 +1,5 @@
 {
- "Version": "1.4",
+ "Version": "1.5",
  "Message": "test",
  "Servers": [
   {
@@ -134,7 +134,7 @@
    "Flag": "dtac",
    "Info": "",
    "Sni": "",
-   "Payload": "R0VUIC9jZG4tY2dpL3RyYWNlIEhUVFAvMS4xW2NybGZdSG9zdDogcy5kdGFjLmNvLnRoW2NybGZd\nW2NybGZdQ0YtUkFZIC8gSFRUUC8xLjFbY3JsZl1Ib3N0OiBbaG9zdF1bY3JsZl1VcGdyYWRlOiBX\nZWJzb2NrZXRbY3JsZl1Db25uZWN0aW9uOiBLZWVwLUFsaXZlW2NybGZdVXNlci1BZ2VudDogW3Vh\nXVtjcmxmXVVwZ3JhZGU6IHdlYnNvY2tldFtjcmxmXVtjcmxmXQ==\n",
+   "Payload": "R0VUIC8gSFRUUC8xLjFbY3JsZl1Ib3N0OiBbaG9zdF1bY3JsZl1VcGdyYWRlOiB3ZWJzb2NrZXRb\nY3JsZl1bY3JsZl0=\n",
    "AutoReplace": "false",
    "UseDefProxy": "false",
    "SquidProxy": "ZHRhY2lkLmxpbmd2cG4ubmV0\n",
