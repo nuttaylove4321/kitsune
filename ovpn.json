@@ -1,5 +1,5 @@
 {
- "Version": "1.5",
+ "Version": "1.6",
  "Message": "test",
  "Servers": [
   {
@@ -51,7 +51,7 @@
    "Info": "",
    "Flag": "th",
    "ServerIP": "aG9tZTEub2htMS5vbmxpbmU=\n",
-   "TCPPort": "",
+   "TCPPort": "1194",
    "SSHPort": "22",
    "SSLPort": "80",
    "NameServer": "",
@@ -59,10 +59,10 @@
    "ServerDNS": "",
    "ProxyIP": "",
    "ProxyPort": "",
-   "AutoLogIn": true,
+   "AutoLogIn": "true",
    "Username": "dnBub2ht\n",
    "Password": "dnBub2ht\n",
-   "MultiCert": true,
+   "MultiCert": "true",
    "OvpnCertificate": "",
    "V2Ray": "",
    "UDPConfig": "",
