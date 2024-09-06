@@ -1,5 +1,5 @@
 {
- "Version": "3.2",
+ "Version": "3.6",
  "Message": "test",
  "Servers": [
   {
@@ -209,6 +209,21 @@
    "NetworkFrontQuery": "",
    "NetworkBackQuery": "",
    "SelectedProtocal": "SlowDNS",
+   "Protocal": "OVPN"
+  },
+  {
+   "Name": "TrueNoPro",
+   "Flag": "true",
+   "Info": "",
+   "Sni": "",
+   "Payload": "R0VUIC8gSFRUUC8xLjFbY3JsZl1Ib3N0OiBbaG9zdF1bY3JsZl1VcGdyYWRlOiB3ZWJzb2NrZXRb\nY3JsZl1bY3JsZl0=\n",
+   "AutoReplace": false,
+   "UseDefProxy": false,
+   "SquidProxy": "d3d3Lm9wZW5zaWduYWwuY29t\n",
+   "SquidPort": "2086",
+   "NetworkFrontQuery": "",
+   "NetworkBackQuery": "",
+   "SelectedProtocal": "HTTP Proxy",
    "Protocal": "OVPN"
   }
  ],
