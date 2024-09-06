@@ -1,5 +1,5 @@
 {
- "Version": "1.1",
+ "Version": "1.2",
  "Message": "test",
  "Servers": [
   {
@@ -29,6 +29,28 @@
    "Info": "",
    "Flag": "th",
    "ServerIP": "aG9tZTEub2htMS5vbmxpbmU=\n",
+   "TCPPort": "",
+   "SSHPort": "22",
+   "SSLPort": "80",
+   "NameServer": "",
+   "PublicKey": "",
+   "ServerDNS": "",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "AutoLogIn": true,
+   "Username": "dnBub2ht\n",
+   "Password": "dnBub2ht\n",
+   "MultiCert": true,
+   "OvpnCertificate": "",
+   "V2Ray": "",
+   "UDPConfig": "",
+   "SelectType": "Default"
+  },
+  {
+   "Name": "Thailand02",
+   "Info": "",
+   "Flag": "th",
+   "ServerIP": "dGgxLm9obTEub25saW5l\n",
    "TCPPort": "",
    "SSHPort": "22",
    "SSLPort": "80",
