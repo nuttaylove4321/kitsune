@@ -1,6 +1,6 @@
 {
- "Version": "1.0",
- "Message": "",
+ "Version": "1.1",
+ "Message": "test",
  "Servers": [
   {
    "Name": "SlowDNS",
@@ -87,12 +87,12 @@
   },
   {
    "Name": "Dtac TrueID SSH",
-   "Flag": "th",
+   "Flag": "dtac",
    "Info": "",
    "Sni": "",
-   "Payload": "R0VUIC9jZG4tY2dpL3RyYWNlIEhUVFAvMS4xW2NybGZdSG9zdDogcy5kdGFjLmNvLnRoW2NybGZd\nW2NybGZdQ0YtUkFZIC8gSFRUUC8xLjFbY3JsZl1Ib3N0OiBbaG9zdF1bY3JsZl1VcGdyYWRlOiBX\nZWJzb2NrZXRbY3JsZl1Db25uZWN0aW9uOiBLZWVwLUFsaXZlW2NybGZdVXNlci1BZ2VudDogW3Vh\nXVtjcmxmXVVwZ3JhZGU6IHdlYnNvY2tldFtjcmxmXVtjcmxmXQ==\n",
-   "AutoReplace": false,
-   "UseDefProxy": false,
+   "Payload": "R0VUIC8gSFRUUC8xLjFbY3JsZl1Ib3N0OiBbaG9zdF1bY3JsZl1VcGdyYWRlOiB3ZWJzb2NrZXRb\nY3JsZl1bY3JsZl0=\n",
+   "AutoReplace": "false",
+   "UseDefProxy": "false",
    "SquidProxy": "ZHRhY2lkLmxpbmd2cG4ubmV0\n",
    "SquidPort": "2086",
    "NetworkFrontQuery": "",
@@ -102,12 +102,12 @@
   },
   {
    "Name": "SlowDNS",
-   "Flag": "th",
+   "Flag": "dtac",
    "Info": "",
    "Sni": "",
    "Payload": "",
-   "AutoReplace": false,
-   "UseDefProxy": false,
+   "AutoReplace": "false",
+   "UseDefProxy": "false",
    "SquidProxy": "",
    "SquidPort": "",
    "NetworkFrontQuery": "",
