@@ -1,5 +1,5 @@
 {
- "Version": "4.4",
+ "Version": "4.5",
  "Message": "test",
  "Servers": [
   {
@@ -56,7 +56,7 @@
    "SSLPort": "80",
    "NameServer": "c2xvdzUub2htMS5zaG9w\n",
    "PublicKey": "NTI2YmFjODAzYmJiMDlmMTlhMzZlYTNlNDI0YzYyYzAwZjcyZTBlMzMzMDhhYzNlMThkZDFkMzU4\nOWQ1M2I3MQ==\n",
-   "ServerDNS": "YzJ4dmR6VXViMmh0TVM1emFHOXcK\n",
+   "ServerDNS": "c2xvdzUub2htMS5zaG9wCg==\n",
    "ProxyIP": "",
    "ProxyPort": "",
    "AutoLogIn": "true",
