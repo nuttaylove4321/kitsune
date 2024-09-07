@@ -1,5 +1,5 @@
 {
- "Version": "4.9",
+ "Version": "5.0",
  "Message": "test",
  "Servers": [
   {
@@ -7,7 +7,7 @@
    "Info": "",
    "Flag": "th",
    "ServerIP": "d3d3Lm9wZW5zaWduYWwuY29tLndzMi52MnJheXguY2xvdWQ=\n",
-   "TCPPort": "1194",
+   "TCPPort": "2086",
    "SSHPort": "22",
    "SSLPort": "443",
    "NameServer": "d3MyLnYycmF5eC5jbG91ZA==\n",
