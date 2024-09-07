@@ -1,5 +1,5 @@
 {
- "Version": "4.2",
+ "Version": "4.3",
  "Message": "test",
  "Servers": [
   {
@@ -69,7 +69,7 @@
    "SelectType": "Default"
   },
   {
-   "Name": "Thailand V2Ray02",
+   "Name": "Thailand V2Ray",
    "Info": "",
    "Flag": "th",
    "ServerIP": "",
