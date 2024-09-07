@@ -1,5 +1,5 @@
 {
- "Version": "4.6",
+ "Version": "4.8",
  "Message": "test",
  "Servers": [
   {
@@ -168,7 +168,7 @@
    "Protocal": "SSH"
   },
   {
-   "Name": "True NoPro",
+   "Name": "True NoPro OVPN",
    "Flag": "true",
    "Info": "",
    "Sni": "",
