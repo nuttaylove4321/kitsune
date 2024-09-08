@@ -1,5 +1,5 @@
 {
- "Version": "7.6",
+ "Version": "7.7",
  "Message": "test",
  "Servers": [
   {
@@ -8,7 +8,7 @@
    "Flag": "th",
    "ServerIP": "d3d3Lm9wZW5zaWduYWwuY29tLmNtYXgyLnNtdGhhaTRnLndpbg==\n",
    "TCPPort": "1194",
-   "SSHPort": "143",
+   "SSHPort": "22",
    "SSLPort": "443",
    "NameServer": "c2xvdy1jbWF4Mi5zbXRoYWk0Zy53aW4=\n",
    "PublicKey": "NTI2YmFjODAzYmJiMDlmMTlhMzZlYTNlNDI0YzYyYzAwZjcyZTBlMzMzMDhhYzNlMThkZDFkMzU4\nOWQ1M2I3MQ==\n",
@@ -168,7 +168,7 @@
    "AutoReplace": "false",
    "UseDefProxy": "false",
    "SquidProxy": "ZHRhYy52MnJheXguY2xvdWQ=\n",
-   "SquidPort": "2082",
+   "SquidPort": "2086",
    "NetworkFrontQuery": "",
    "NetworkBackQuery": "",
    "SelectedProtocal": "HTTP Proxy",
