@@ -1,5 +1,5 @@
 {
- "Version": "8.3",
+ "Version": "8.4",
  "Message": "test",
  "Servers": [
   {
@@ -122,6 +122,21 @@
    "NetworkBackQuery": "",
    "SelectedProtocal": "HTTP Proxy",
    "Protocal": "SSH"
+  },
+  {
+   "Name": "True Esport",
+   "Flag": "true",
+   "Info": "",
+   "Sni": "Y29ubmVjdC5mYWNlYm9vay5uZXQ=\n",
+   "Payload": "",
+   "AutoReplace": false,
+   "UseDefProxy": false,
+   "SquidProxy": "",
+   "SquidPort": "",
+   "NetworkFrontQuery": "",
+   "NetworkBackQuery": "",
+   "SelectedProtocal": "SSL SNI",
+   "Protocal": "OVPN"
   },
   {
    "Name": "True NoPro OVPN",
