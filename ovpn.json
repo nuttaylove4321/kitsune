@@ -1,5 +1,5 @@
 {
- "Version": "6.9",
+ "Version": "7.0",
  "Message": "test",
  "Servers": [
   {
@@ -32,9 +32,9 @@
    "TCPPort": "1194",
    "SSHPort": "22",
    "SSLPort": "443",
-   "NameServer": "c2xvd3cuMmluMXZwbi5uZXQ=\n",
+   "NameServer": "Y2F0MDIuMmluMXZwbi5uZXQ=\n",
    "PublicKey": "NTI2YmFjODAzYmJiMDlmMTlhMzZlYTNlNDI0YzYyYzAwZjcyZTBlMzMzMDhhYzNlMThkZDFkMzU4\nOWQ1M2I3MQ==\n",
-   "ServerDNS": "c2xvd3cuMmluMXZwbi5uZXQ=\n",
+   "ServerDNS": "Y2F0MDIuMmluMXZwbi5uZXQ=\n",
    "ProxyIP": "",
    "ProxyPort": "",
    "AutoLogIn": "true",
