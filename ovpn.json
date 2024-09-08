@@ -1,5 +1,5 @@
 {
- "Version": "7.4",
+ "Version": "7.5",
  "Message": "test",
  "Servers": [
   {
@@ -8,11 +8,11 @@
    "Flag": "th",
    "ServerIP": "d3d3Lm9wZW5zaWduYWwuY29tLmNtYXgyLnNtdGhhaTRnLndpbg==\n",
    "TCPPort": "1194",
-   "SSHPort": "22",
+   "SSHPort": "143",
    "SSLPort": "443",
-   "NameServer": "d3d3Lm9wZW5zaWduYWwuY29tLmNtYXgyLnNtdGhhaTRnLndpbg==\n",
+   "NameServer": "c2xvdy1jbWF4Mi5zbXRoYWk0Zy53aW4=\n",
    "PublicKey": "NTI2YmFjODAzYmJiMDlmMTlhMzZlYTNlNDI0YzYyYzAwZjcyZTBlMzMzMDhhYzNlMThkZDFkMzU4\nOWQ1M2I3MQ==\n",
-   "ServerDNS": "d3d3Lm9wZW5zaWduYWwuY29tLmNtYXgyLnNtdGhhaTRnLndpbg==\n",
+   "ServerDNS": "Y21heDIuc210aGFpNGcud2lu\n",
    "ProxyIP": "",
    "ProxyPort": "",
    "AutoLogIn": "true",
