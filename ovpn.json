@@ -1,5 +1,5 @@
 {
- "Version": "7.2",
+ "Version": "7.3",
  "Message": "test",
  "Servers": [
   {
@@ -34,7 +34,7 @@
    "SSLPort": "443",
    "NameServer": "c2xvd3cuMmluMXZwbi5uZXQ=\n",
    "PublicKey": "NTI2YmFjODAzYmJiMDlmMTlhMzZlYTNlNDI0YzYyYzAwZjcyZTBlMzMzMDhhYzNlMThkZDFkMzU4\nOWQ1M2I3MQ==\n",
-   "ServerDNS": "c2xvd3cuMmluMXZwbi5uZXQ=\n",
+   "ServerDNS": "OC44LjguOA==\n",
    "ProxyIP": "",
    "ProxyPort": "",
    "AutoLogIn": "true",
