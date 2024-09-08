@@ -1,5 +1,5 @@
 {
- "Version": "8.1",
+ "Version": "8.2",
  "Message": "test",
  "Servers": [
   {
@@ -168,7 +168,7 @@
    "AutoReplace": "false",
    "UseDefProxy": "false",
    "SquidProxy": "ZHRhYy52MnJheXguY2xvdWQ=\n",
-   "SquidPort": "2086",
+   "SquidPort": "2082",
    "NetworkFrontQuery": "",
    "NetworkBackQuery": "",
    "SelectedProtocal": "HTTP Proxy",
