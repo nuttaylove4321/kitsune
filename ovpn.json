@@ -1,7 +1,29 @@
 {
- "Version": "8.6",
+ "Version": "8.7",
  "Message": "test",
  "Servers": [
+  {
+   "Name": "Empty OVPN",
+   "Info": "",
+   "Flag": "th",
+   "ServerIP": "Y2F0MDIuMmluMXZwbi5uZXQ=\n",
+   "TCPPort": "",
+   "SSHPort": "",
+   "SSLPort": "",
+   "NameServer": "",
+   "PublicKey": "",
+   "ServerDNS": "",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "AutoLogIn": true,
+   "Username": "dGVzdDE=\n",
+   "Password": "dGVzdDE=\n",
+   "MultiCert": true,
+   "OvpnCertificate": "",
+   "V2Ray": "",
+   "UDPConfig": "",
+   "SelectType": "Default"
+  },
   {
    "Name": "Thailand",
    "Info": "",
