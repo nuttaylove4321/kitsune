@@ -1,5 +1,5 @@
 {
- "Version": "8.4",
+ "Version": "8.5",
  "Message": "test",
  "Servers": [
   {
@@ -45,6 +45,28 @@
    "V2Ray": "dmxlc3M6Ly9iMzdkNWUxOC03NTgzLTQxNjYtOWE0MS1jM2MwYmZhNzNkNTdAZHRhY2lkLmxpbmd2\ncG4ubmV0OjIwODY\/cGF0aD0lMkYmc2VjdXJpdHk9bm9uZSZlbmNyeXB0aW9uPW5vbmUmaG9zdD1j\nYXQ3Lm5hbW8xLmNsb3VkJnR5cGU9d3MjY2F0Ny1kdGFjaWQ=\n",
    "UDPConfig": "dmxlc3M6Ly9iMzdkNWUxOC03NTgzLTQxNjYtOWE0MS1jM2MwYmZhNzNkNTdAZHRhY2lkLmxpbmd2\ncG4ubmV0OjIwODY\/cGF0aD0lMkYmc2VjdXJpdHk9bm9uZSZlbmNyeXB0aW9uPW5vbmUmaG9zdD1j\nYXQ3Lm5hbW8xLmNsb3VkJnR5cGU9d3MjY2F0Ny1kdGFjaWQ=\n",
    "SelectType": "V2Ray"
+  },
+  {
+   "Name": "Thailand02",
+   "Info": "",
+   "Flag": "th",
+   "ServerIP": "d3d3Lm9wZW5zaWduYWwuY29tLnh2ZXJ2Mi52MnJheXguY2xvdWQ=\n",
+   "TCPPort": "1194",
+   "SSHPort": "80",
+   "SSLPort": "443",
+   "NameServer": "",
+   "PublicKey": "",
+   "ServerDNS": "",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "AutoLogIn": true,
+   "Username": "dGVzdA==\n",
+   "Password": "dGVzdA==\n",
+   "MultiCert": true,
+   "OvpnCertificate": "Y2xpZW50CmRldiB0dW4KcHJvdG8gdGNwCnJlbW90ZSAxODUuODQuMTYwLjIxNyAxMTk0CnJlc29s\ndi1yZXRyeSBpbmZpbml0ZQpyb3V0ZS1tZXRob2QgZXhlCm5vYmluZApwZXJzaXN0LWtleQpwZXJz\naXN0LXR1bgphdXRoLXVzZXItcGFzcwpjb21wLWx6bwp2ZXJiIDMKPGNhPgotLS0tLUJFR0lOIENF\nUlRJRklDQVRFLS0tLS0KTUlJRFFqQ0NBaXFnQXdJQkFnSVVWRmNpaXFSc25DL0wwTHNiSUlQUXEr\ndEVnWnN3RFFZSktvWklodmNOQVFFTApCUUF3RXpFUk1BOEdBMVVFQXd3SVEyaGhibWRsVFdVd0ho\nY05NakV3TXpFMU1Ua3dNREEzV2hjTk16RXdNekV6Ck1Ua3dNREEzV2pBVE1SRXdEd1lEVlFRRERB\naERhR0Z1WjJWTlpUQ0NBU0l3RFFZSktvWklodmNOQVFFQkJRQUQKZ2dFUEFEQ0NBUW9DZ2dFQkFO\nbmpyVG5OSlZNOStqSlo4enJqOHVKSys1ejJzYTJnYVNxYmg5bnNCMXE5Sk1xeQpwaDd6UVRRT05E\nUFlaMmhMRlh4LzRYcFhib0pidCsxbjI4c0NyNS82QWlKZU92eFFTQjRlcXMzR05EZUF1WGFYCk5X\ndm1Mc1RsOVZkU2NnTVJnTFprU1MyY0dhR3FORjkrUmRudjJMT050enVvTFkxWERvdjdVc3g1OGlu\nMmtSZDQKVVBSN2R4T2xhYWc2WmtacldLMVJCYm5BYlN4Tmt2TnZPWmtVU0RCZFdwdnNTTGZsakNT\nMC9oVUkwNWEvMzdjZwpJMjNOd0Vwb1FBTkRzTEtvYXlheDVqYkVtMld2VHU3dEJINktnMmppTURz\nVGt0WjUrT0NoSEdpNzVuVzE5T2ZIClRkbklETG5JaGlXQVZTSnJwNWFlcmZKYkcweXdZamZIc25r\nT1cza0NBd0VBQWFPQmpUQ0JpakFkQmdOVkhRNEUKRmdRVWtHOHpSdS82bEhhZGt5ektjdUVib2xr\nQVhGOHdUZ1lEVlIwakJFY3dSWUFVa0c4elJ1LzZsSGFka3l6SwpjdUVib2xrQVhGK2hGNlFWTUJN\neEVUQVBCZ05WQkFNTUNFTm9ZVzVuWlUxbGdoUlVWeUtLcEd5Y0w4dlF1eHNnCmc5Q3I2MFNCbXpB\nTUJnTlZIUk1FQlRBREFRSC9NQXNHQTFVZER3UUVBd0lCQmpBTkJna3Foa2lHOXcwQkFRc0YKQUFP\nQ0FRRUEwb0hva3VEelBlVkIrOFZ4RktYWE9uSmR4Vm9sQ2wrcjVqS3g2RlNENXRnM1VwVGpnQUV1\nanQvRQpqYlQzc1RHY0JRaEZmaTk1M0xFTytFTms1RDRGckxtQTc0R3h2bVNNSlNZTWhuOUR3YldT\nbWQ1VU53Z1NDQzFXClBTM2JtTWpWb3RnTGFXaC95N1MyWUNSZ3lNTVRFeUFia2UzWCtPZzhWQUxo\nalM0L25IRmt1dmNRSWtKUjR3cmkKQVlPNXM2M2NyTEpkNkNrckp0VDFPOE9kUEVXSWd3aEhEdjJ4\nL2V0OUphY2tuMkxVTUJIUzRMTE96QnZScTI0dQpmbHg2OTBVbGxDMWxZczdwaG9waDB2N3lSekdk\nYnh1dlY1TkFFNXZVZlIzNUlLL3kvbVg3Y1REZkNoRy9PNzhUCm5VanlkaFZtR1dqTG9Ibi93cWsz\ndTVuemk3SGs1UT09Ci0tLS0tRU5EIENFUlRJRklDQVRFLS0tLS0KPC9jYT4K\n",
+   "V2Ray": "",
+   "UDPConfig": "",
+   "SelectType": "Default"
   }
  ],
  "Networks": [
@@ -102,7 +124,7 @@
    "AutoReplace": "true",
    "UseDefProxy": "false",
    "SquidProxy": "ZHRhYy52MnJheXguY2xvdWQ=\n",
-   "SquidPort": "2082",
+   "SquidPort": "2086",
    "NetworkFrontQuery": "",
    "NetworkBackQuery": "",
    "SelectedProtocal": "HTTP Proxy",
