@@ -1,5 +1,5 @@
 <?php
-$filename = "jsonPhp";
+$filename = "jsonPhp.json";
 $text = "data";
 
 // ตรวจสอบข้อมูลที่ส่งมาครบหรือไม่
